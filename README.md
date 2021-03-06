@@ -1,6 +1,8 @@
 # BMI_App!
 app running
-[Uploading bmi-calc-demo.gif…]()
+![bmi-calc-demo](https://user-images.githubusercontent.com/76013597/110224882-8a231700-7ee8-11eb-9fb6-36429182590a.gif)
+
+
 
 
 A new Flutter application.
